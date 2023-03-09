@@ -1,5 +1,4 @@
 # JEON JUN YOUNG
-## PORTPOLIO
 ### Web developer
 ### ccomajeon.github.io
 
